@@ -12,3 +12,6 @@ You can also find me in other places of the interwebz, maybe take a look at my
 I use the same GitHub account for professional, paid work - you can expect that everything
 I do outside that organization (linked as Company in GitHubs box for that) is my personal
 opinion, not my employers.
+
+Black lives matter, hire trans people or just randomly pay them, always help a struggling
+people when you can. Be excellent to each otter.
