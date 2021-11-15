@@ -13,5 +13,5 @@ I use the same GitHub account for professional, paid work - you can expect that 
 I do outside that organization (linked as Company in GitHubs box for that) is my personal
 opinion, not my employers.
 
-Black lives matter, hire trans people or just randomly pay them, always help a struggling
+Black lives matter, hire trans people or just randomly pay them, always help struggling
 people when you can. Be excellent to each otter.
