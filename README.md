@@ -1,6 +1,6 @@
 # Hello world!
 
-I do computery things for fun (e.g. writing my own operating system, run overly complicated personal infrastructure, crashing servers) and for profit (not crashing servers, being technical lead for Kubernetes at @Anexia) and always love the "impossible" tasks.
+I do computery things for fun (e.g. writing my own operating system, run overly complicated personal infrastructure, crashing servers) and for profit (not crashing servers) and always love the "impossible" tasks.
 
 Besides this GitHub profile, you can find other code by me on my [personal Gitlab instance](https://praios.lf-net.org/littlefox), which I have since way
 before GitHub got their own CI system.
